@@ -475,6 +475,37 @@ output {
   display: inline-block;
 }
 
+
+#hero-outer {
+    height:600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-image {
+    height:600px;
+    width: 100%;
+    background: url("/assets/img/chic-hair-tools.jpg") no-repeat center center;
+
+    /* Animates zoom effect on loading the page */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+        background-size: cover;
+}
+
+/* Creates the level of zoom for hero image */
+  @keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+.is-invalid
 iframe {
   border: 0;
 }
