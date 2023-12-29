@@ -516,6 +516,7 @@ output {
         transform: scale(1.1);
     }
 }
+
 .header-hero-link {
   background-size: 16px;
   background-repeat: no-repeat;
@@ -535,7 +536,22 @@ output {
   background-image: url("/assets/img/blue-down.png");
 }
 
-invalidimg\blue-down
+.header-hero-link a {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+a {
+  background-color: transparent;
+}
+
+/*a {
+  color: #253E59;
+  text-decoration: none;
+  transition: 0.6s;
+}*/
+
 iframe {
   border: 0;
 }
@@ -949,6 +965,7 @@ progress {
 .gx-5 {
   --bs-gutter-x: 3rem;
 }
+
 
 .g-5,
 .gy-5 {
