@@ -533,7 +533,7 @@ output {
 }
 
 .screen-reader-text {
-  background-image: url("/assets/img/blue-down.png");
+  background-image: url("../assets/img/blue-down.png");
 }
 
 .header-hero-link a {
