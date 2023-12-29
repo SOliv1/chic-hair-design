@@ -504,7 +504,7 @@ output {
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
-    background: url(/assets/img/chic-hair-tools.jpg) center center / cover no-repeat;
+    background: url(../assets/img/chic-hair-tools.jpg) center center / cover no-repeat;
 }
 
 /* Creates the level of zoom for hero image */
@@ -546,6 +546,29 @@ a {
   background-color: transparent;
 }
 
+/*a {
+  color: #253E59;
+  text-decoration: none;
+  transition: 0.6s;
+}*/
+
+iframe {
+  border: 0;
+}
+
+summary {
+  display: list-item;
+  cursor: pointer;
+}
+
+progress {
+  vertical-align: baseline;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
 /*a {
   color: #253E59;
   text-decoration: none;
