@@ -546,11 +546,73 @@ a {
   background-color: transparent;
 }
 
-/*a {
-  color: #253E59;
-  text-decoration: none;
-  transition: 0.6s;
-}*/
+header-hero h1 {
+  color: #fff;
+}
+h1, h2, h3, h4, h5, h6 {
+  clear: both;
+  color: #1C3C5E;
+  font-weight: 300;
+  line-height: 1.2;
+  margin-top: 0;
+}
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+h1 {
+  font-size: var(--wp--preset--font-size--x-large);
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+*, ::before, ::after {
+  box-sizing: border-box;
+}
+user agent stylesheet
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+.header-hero {
+  background-image: url(../src/images/hero-background-full.png);
+  background-repeat: repeat-x;
+  background-size: contain;
+  text-align: center;
+  position: relative;
+  padding-top: 130px;
+  padding-bottom: 90px;
+}
+body {
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.header-hero-link {
+  background-image: url(/assets/img/blue-down.png);
+  background-size: 16px;
+  background-repeat: no-repeat;
+  background-position: center 15px;
+  background-color: #fff;
+  border-radius: 999px;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: -25px;
+  transition: 0.6s ease-in-out;
+}
 
 iframe {
   border: 0;
