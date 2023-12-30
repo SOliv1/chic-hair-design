@@ -4,7 +4,8 @@
 ###  View live on [netlify](https://chic-hair-design-by-becky.netlify.app)
 
 ![pages-build-deployment](https://github.com/SOliv1/chic-hair-design/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0e460053-a8cc-4143-b491-b12840c80a6a/deploy-status)](https://app.netlify.com/sites/chic-hair-design-by-becky/deploys-status?branch=master)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0e460053-a8cc-4143-b491-b12840c80a6a/deploy-status)]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0e460053-a8cc-4143-b491-b12840c80a6a/deploy-status?branch=master.)](https://app.netlify.com/sites/chic-hair-design-by-becky/deploys)
 [![Jekyll site CI](https://github.com/SOliv1/chic-hair-design/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/SOliv1/chic-hair-design/actions/workflows/jekyll-docker.yml)
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
