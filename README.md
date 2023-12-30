@@ -1,6 +1,6 @@
 # chic-hair-design
 ## html project by Start Bootstrap
-###  View live site on Github Pages [HERE](https://soliv1.github.io/chic-hair-design/)
+###  View live site on Github Pages [HERE](https://chic-hair-design-by-becky.netlify.app/)
 ###  View live on [netlify](https://chic-hair-design-by-becky.netlify.app)
 
 ![pages-build-deployment](https://github.com/SOliv1/chic-hair-design/actions/workflows/pages/pages-build-deployment/badge.svg)
